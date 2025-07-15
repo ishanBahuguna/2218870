@@ -1,1 +1,4 @@
-run : npm run dev
+clone the repo
+run:
+npm install
+npm run dev
